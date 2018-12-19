@@ -10,8 +10,6 @@ public interface Demo1{
 
    public void select();
    
-   public int select1();
-   
    public void liuyirong();
    
 }
