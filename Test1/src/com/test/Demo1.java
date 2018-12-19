@@ -13,5 +13,6 @@ public interface Demo1{
    public int select1();
    
    public void liuyirong();
+   public void f();
    
 }
