@@ -7,4 +7,5 @@ public interface Demo1{
    public void update();
 
    public void select();
+   public int select1();
 }
