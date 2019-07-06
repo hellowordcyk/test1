@@ -14,5 +14,6 @@ public interface Demo1{
    
    public void liuyirong();
    public void f();
+   public void f1();
    
 }
